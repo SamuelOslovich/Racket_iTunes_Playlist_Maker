@@ -1,7 +1,6 @@
 #lang racket
 (require 2htdp/itunes)
 (require racket/gui/base)
-(require drracket/get-module-path)
 (require 2htdp/batch-io)
 (require "TrackHeap.rkt")
 
