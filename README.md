@@ -30,4 +30,4 @@
 3. Open iTunes.rkt in DrRacket
 4. Run iTunes.rkt
 5. Select your Library.xml file and generate your playlists
-(You can get your iTunes library.xml file by opening iTunes and selecting File->Library->Export Library)
+- (You can get your iTunes library.xml file by opening iTunes and selecting File->Library->Export Library)
